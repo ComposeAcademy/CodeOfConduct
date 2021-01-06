@@ -14,10 +14,10 @@ Examples of behaviour that contributes to creating a positive environment includ
 - Being respectful of differing viewpoints and experiences
 - Gracefully accepting constructive criticism
 - Referring to people by their preferred pronouns and using gender-neutral pronouns when uncertain
-- Examples of unacceptable behaviour by participants include:
 
-## Trolling, insulting/derogatory comments, public or private harassment
+Examples of unacceptable behaviour by participants include:
 
+- Trolling, insulting/derogatory comments, public or private harassment
 - Publishing others' private information, such as a physical or electronic address, without explicit permission
 - Not being respectful to reasonable communication boundaries, such as 'leave me alone,' 'go away,' or 'I’m not discussing this with you.'
 - The usage of sexualised language or imagery and unwelcome sexual attention or advances
